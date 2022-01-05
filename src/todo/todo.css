@@ -1,0 +1,29 @@
+body{
+    background-color: #E5D68A;
+}
+table{
+width: 90%;
+text-align: center;
+color: white;
+margin: auto;
+margin-top: 50px;    
+}
+th{
+    background-color: #03203C;
+    padding: 5px;
+}
+td{
+    background-color: #207398;
+    padding: 5px;
+
+}
+
+h1{
+    color: #03203C;
+}
+.deleteAll{
+    background-color: black;
+    color: white;
+    border: none;
+    margin-top: 20px;
+}
